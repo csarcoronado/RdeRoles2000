@@ -1,0 +1,27 @@
+.permiso-container{
+    margin-top: 30px;
+}
+
+.permisos {
+ justify-content: center;
+ align-items: center;
+ text-align: center;
+  }
+
+.buttonP{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+@media (max-width:589px) {
+    .fs-66{
+        font-size: 50%;
+    }
+}
+
+@media (max-width: 666px) and (min-width:590px){
+    .fs-66{
+        font-size: 12px;
+    }
+}
